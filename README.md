@@ -16,6 +16,7 @@ Estudante de Engenharia Informática na Universidade Lusófona , movido por uma 
     <img src="https://skillicons.dev/icons?i=java,ts,js,nodejs,spring,react,express,py,c,postgres,mongodb,mysql,powershell,docker,git,maven,vscode,postman,bash,linux&perline=10" />
   </a>
 </p>
+
 ---
 
 ### 💻 Projetos em Destaque
