@@ -43,9 +43,12 @@ Estudante de Engenharia Informática na Universidade Lusófona , movido por uma 
 
 ### 🏆 Experiências & Certificações
 
-* **JPMorgan Chase & Co.:** Simulação de Software Engineering focada em Spring Framework e APIs REST.
-* **HackerRank:** Software Engineer Intern Assessment (Proficiência em SQL e Resolução de Problemas).
-* **Badges:** Oracle Java Explorer | Applitools JUnit 5 Test Automation.
+<p align="left">
+  <img src="https://img.shields.io/badge/JPMorgan_Chase-Software_Engineering_Simulation-0a5c8e?style=for-the-badge&logo=jpmorgan&logoColor=white" alt="JPMorgan Simulation" />
+  <img src="https://img.shields.io/badge/HackerRank-SQL_&_Problem_Solving-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Assessment" />
+  <img src="https://img.shields.io/badge/Oracle-Java_Explorer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java Explorer" />
+  <img src="https://img.shields.io/badge/Applitools-JUnit_5_Automation-8A2BE2?style=for-the-badge&logo=applitools&logoColor=white" alt="Applitools JUnit 5" />
+</p>
 
 ---
 
