@@ -3,7 +3,7 @@
 Estudante de Engenharia Informática na Universidade Lusófona , movido por uma mentalidade proativa e pela paixão em resolver problemas complexos através da tecnologia. O meu foco está no desenvolvimento de software robusto e na entrega de soluções que gerem impacto real.
 
 - Localizado em Aveiro, Portugal.
-- Licenciatura em Engenharia Informática, com especial foco em Desenvolvimento de Software, Estruturas de Dados e Sistemas de Bases de Dados.
+- Licenciatura em Engenharia Informática.
 - Especializado em lógica de backend (Java/Spring) e arquitetura de dados (PostgreSQL/SQL).
 - Participante ativo na comunidade tecnológica.
 
