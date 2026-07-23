@@ -21,7 +21,7 @@ Estudante de Engenharia Informática na Universidade Lusófona , movido por uma 
 
 ### 💻 Projetos em Destaque
 
-#### 🛡️ [DEMS – Distributed Chain of Custody System](https://github.com/pedronuno-soares/startup)
+#### 🛡️ [Incorrupt – Distributed Chain of Custody Syste](https://github.com/pedronuno-soares/startup)
 **Sistema orquestrador de cadeia de custódia distribuída focado em integridade e segurança.**
 * **Consenso Distribuído:** Implementação de protocolo BFT-Lite e arquitetura Blockchain (v2) para garantir a imutabilidade dos registos.
 * **Alta Disponibilidade:** Orquestração de 3 nós MongoDB isolados em rede e base de dados PostgreSQL via Docker Compose.
