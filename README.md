@@ -56,9 +56,9 @@ Estudante de Engenharia Informática na Universidade Lusófona , movido por uma 
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedronuno-soares&show_icons=true&theme=radical" alt="Estatísticas de Pedro" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedronuno-soares&show_icons=true&theme=radical" alt="Estatísticas de Pedro" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronuno-soares&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedronuno-soares&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 ---
