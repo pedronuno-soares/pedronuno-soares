@@ -1,6 +1,6 @@
 # Pedro Soares
 
-Estudante de Engenharia Informática na Universidade Lusófona , movido por uma mentalidade proativa e pela paixão em resolver problemas complexos através da tecnologia. O meu foco está no desenvolvimento de software robusto e na entrega de soluções que gerem impacto real.
+Licenciado em Engenharia Informática na Universidade Lusófona , movido por uma mentalidade proativa e pela paixão em resolver problemas complexos através da tecnologia. O meu foco está no desenvolvimento de software robusto e na entrega de soluções que gerem impacto real.
 
 - Localizado em Aveiro, Portugal.
 - Licenciatura em Engenharia Informática.
